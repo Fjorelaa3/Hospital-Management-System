@@ -9,6 +9,7 @@ This project was developed using Scrum methodology.
 This system has 3 types of users:
 
 1.Manager who can :
+
 ● Generate comprehensive reports on staff performance, reservation statistics, and cancellation rates.
 ● Manage and update staff information, including adding new staff members or modifying existing
 records.
@@ -21,6 +22,7 @@ adherence to best practices.
 
 
 2. Staff(Doctor/Nurse) which can:
+   
 ● View a comprehensive list of pending reservations assigned to them.
 ● Postpone or reschedule reservations based on availability and patient needs.
 ● Mark reservations as concluded once the appointment is completed.
@@ -28,6 +30,7 @@ adherence to best practices.
 
 
 4. Receptionist who can:
+   
 ● Create reservations for new and existing patients, capturing relevant patient information.
 ● View and manage a centralized list of pending reservations for all staff members.
 ● Cancel or modify existing reservations based on patient requests or operational needs.
